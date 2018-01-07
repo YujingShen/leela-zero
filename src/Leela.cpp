@@ -264,7 +264,7 @@ int main (int argc, char *argv[]) {
     auto maingame = std::make_unique<GameState>();
 
     /* set board limits */
-    float komi = 7.5;
+    float komi = 6.5;
     maingame->init_game(19, komi);
 
     for(;;) {
