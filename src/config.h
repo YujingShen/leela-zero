@@ -42,8 +42,8 @@
 // #define USE_HALF
 //#define USE_TUNER
 
-#define PROGRAM_NAME "Leela Zero"
-#define PROGRAM_VERSION "0.9"
+#define PROGRAM_NAME "GooGo"
+#define PROGRAM_VERSION "1.0"
 
 // OpenBLAS limitation
 #if defined(USE_BLAS) && defined(USE_OPENBLAS)
